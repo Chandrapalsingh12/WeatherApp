@@ -50,7 +50,3 @@ npm start
 
 ## Credits
 - The background images used in this app are from [Unsplash](https://unsplash.com).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
